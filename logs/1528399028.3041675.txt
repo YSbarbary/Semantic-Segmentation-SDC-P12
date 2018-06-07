@@ -1,0 +1,50 @@
+BATCH_SIZE : 2 
+EPOCHS : 15 
+LEARNING_RATE : 0.000050 
+KEEP_PROB : 0.600000 
+
+Training started....
+EPOCH : 1
+EPOCH : 1  Images processed : 70 
+EPOCH : 1  Images processed : 140 
+EPOCH : 1  Images processed : 210 
+EPOCH : 1  Images processed : 280 
+Loss : = 0.451
+EPOCH : 2
+EPOCH : 2  Images processed : 70 
+EPOCH : 2  Images processed : 140 
+EPOCH : 2  Images processed : 210 
+EPOCH : 2  Images processed : 280 
+Loss : = 0.143
+EPOCH : 3
+EPOCH : 3  Images processed : 70 
+EPOCH : 3  Images processed : 140 
+EPOCH : 3  Images processed : 210 
+EPOCH : 3  Images processed : 280 
+Loss : = 0.105
+EPOCH : 4
+EPOCH : 4  Images processed : 70 
+EPOCH : 4  Images processed : 140 
+EPOCH : 4  Images processed : 210 
+EPOCH : 4  Images processed : 280 
+Loss : = 0.085
+EPOCH : 5
+EPOCH : 5  Images processed : 70 
+EPOCH : 5  Images processed : 140 
+EPOCH : 5  Images processed : 210 
+EPOCH : 5  Images processed : 280 
+Loss : = 0.070
+EPOCH : 6
+EPOCH : 6  Images processed : 70 
+EPOCH : 6  Images processed : 140 
+EPOCH : 6  Images processed : 210 
+EPOCH : 6  Images processed : 280 
+Loss : = 0.061
+EPOCH : 7
+EPOCH : 7  Images processed : 70 
+EPOCH : 7  Images processed : 140 
+EPOCH : 7  Images processed : 210 
+EPOCH : 7  Images processed : 280 
+Loss : = 0.055
+EPOCH : 8
+EPOCH : 8  Images processed : 70 

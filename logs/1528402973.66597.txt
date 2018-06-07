@@ -1,0 +1,9 @@
+BATCH_SIZE : 2 
+EPOCHS : 15 
+LEARNING_RATE : 0.000050 
+KEEP_PROB : 0.600000 
+
+Training started....
+EPOCH : 1
+Loss : = 10.110
+loss_history : [10.109999656677246]
